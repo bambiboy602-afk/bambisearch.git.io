@@ -1,0 +1,6 @@
+{
+  "name": "LeadTrace",
+  "description": "Autonomous research and archive discovery agent with bounded lead chaining, evidence ranking, and verification tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
